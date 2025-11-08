@@ -1,1 +1,1 @@
-# react-shop
+# Online Store in React
